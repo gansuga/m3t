@@ -1,0 +1,2 @@
+[TYPECHECK]
+ignored-modules=kivy,kivy.uix.button,kivy.uix.widget
